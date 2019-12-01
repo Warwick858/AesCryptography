@@ -21,6 +21,6 @@ Just open the 'Test Explorer' and run/debug the tests to exercise encryption/dec
 	* NIST’s recommended replacement for DES.
 	* 128, 192 or 256 bit key with 128 bit data block.
 	* Runs approximately 6 times faster than triple DES (3DES).
-	* More info here
+	* More info [here](https://aesencryption.net/)
 
 ![AES Infographic](https://i.ibb.co/wSrc4v6/Infographic.png)

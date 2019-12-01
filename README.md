@@ -2,6 +2,8 @@
 
 ## Application Name: AesCryptography ##
 
+* Solution Types: Nunit Test Project, .NET Web Core Library
+
 * Description: Simple AES encrypt and decrypt example.
 
 * This program is setup as a Nunit test project and a core library.
